@@ -2,3 +2,5 @@ streamlit==0.80.0
 beautifulsoup4==4.9.3
 urljoin==1.0.0
 matplotlib==3.4.2
+seaborn==0.11.1
+numpy==1.21.0rc1
