@@ -4,3 +4,4 @@ urljoin==1.0.0
 matplotlib==3.4.2
 seaborn==0.11.1
 numpy==1.21.0rc1
+lxml==4.6.2
